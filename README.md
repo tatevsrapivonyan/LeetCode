@@ -10,4 +10,4 @@ The repository is organized into directories based on problem difficulty:
 - `medium/` - Solutions to medium problems.
 - `hard/` - Solutions to hard problems.
 
-Each directory contains subdirectories for specific problem topics, such as arrays, linked lists, dynamic programming, etc.
+Each directory contains subdirectories for specific problem topics.
