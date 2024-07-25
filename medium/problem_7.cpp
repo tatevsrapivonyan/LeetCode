@@ -1,13 +1,39 @@
+#include <limits>
+
+using namespace std;
+
 class Solution {
 public:
     int reverse(int x) {
-        int rev = 0;
-        while (x != 0) {
-            if (rev > INT_MAX / 10 || (rev == INT_MAX / 10 && x % 10 > 7)) return 0;
-            if (rev < INT_MIN / 10 || (rev == INT_MIN / 10 && x % 10 < -8)) return 0;
-            rev = rev * 10 + x % 10;
-            x /= 10;
+        int rx {};
+
+        if (x > 0)
+        {        
+            while ( rx <= numeric_limits<int>::max() && x)
+            {
+                if (rx > numeric_limits<int>::max() / 10)
+                {
+                    return 0;
+                }
+                rx = rx * 10 + x % 10;
+                x /= 10;
+            }
         }
-        return rev;
+        else if (x < 0)
+        {
+            while ( rx >= numeric_limits<int>::min() && x)
+            {
+                if (rx * -1 < numeric_limits<int>::min() / 10)
+                {
+                    return 0;
+                }
+
+                rx = rx * 10 - x % 10;
+                x /= 10;
+            }
+            rx = -1 * rx;
+        }
+
+        return rx;
     }
 };
