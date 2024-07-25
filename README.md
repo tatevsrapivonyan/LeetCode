@@ -14,6 +14,6 @@ Each directory contains subdirectories for specific problem topics.
 
 Problems solved:
 
-#1 [Two Sum](https://leetcode.com/problems/two-sum/description/) </n>
-#7 [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) n/
-#9 [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) n/
+#1 [Two Sum](https://leetcode.com/problems/two-sum/description/) "/n"
+#7 [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) 
+#9 [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) 
