@@ -18,3 +18,4 @@ Problems solved:
 #7 [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) <br>
 #9 [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) <br>
 #13 [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) <br>
+#27 [Remove Element](https://leetcode.com/problems/remove-element/description/) <br>
