@@ -20,3 +20,4 @@ Problems solved:
 #13 [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) <br>
 #27 [Remove Element](https://leetcode.com/problems/remove-element/description/) <br>
 #28 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) <br>
+#35 [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) <br>
