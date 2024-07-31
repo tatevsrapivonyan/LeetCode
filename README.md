@@ -22,3 +22,4 @@ Problems solved:
 #28 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) <br>
 #35 [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) <br>
 #26 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) <br>
+#3110 [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) <br>
