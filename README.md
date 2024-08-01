@@ -24,3 +24,4 @@ Problems solved:
 #26 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) <br>
 #3110 [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) <br>
 #2769 [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) <br>
+#1929 [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
