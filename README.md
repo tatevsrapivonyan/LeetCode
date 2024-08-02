@@ -26,3 +26,4 @@ Problems solved:
 #2769 [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) <br>
 #1929 [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) <br>
 #1920 [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/) <br>
+#2469 [Convert the temperature](https://leetcode.com/problems/convert-the-temperature/description/) <br>
