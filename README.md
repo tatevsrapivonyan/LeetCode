@@ -29,3 +29,4 @@ Problems solved:
 #2469 [Convert the temperature](https://leetcode.com/problems/convert-the-temperature/description/) <br>
 #2011 [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) <br>
 #1108 [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) <br>
+#1512 [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) <br>
