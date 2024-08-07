@@ -32,3 +32,4 @@ Problems solved:
 #1512 [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) <br>
 #2894 [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/) <br>
 #3146 [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/) <br>
+#771 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) <br>
