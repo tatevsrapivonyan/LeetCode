@@ -34,3 +34,4 @@ Problems solved:
 #3146 [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/) <br>
 #771 [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) <br>
 #3190 [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/)<br>
+#2942 [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/) <br>
