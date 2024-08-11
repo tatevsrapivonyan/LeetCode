@@ -37,3 +37,5 @@ Problems solved:
 #2942 [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/) <br>
 #1470 [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) <br>
 #2235 [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) <br>
+#2413 [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/) <br>
+
