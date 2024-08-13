@@ -39,4 +39,4 @@ Problems solved:
 #2235 [Add Two Integers](https://leetcode.com/problems/add-two-integers/description/) <br>
 #2413 [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/) <br>
 #2798 [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)<br>
-
+#1431 [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)<br>
