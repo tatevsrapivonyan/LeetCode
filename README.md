@@ -42,3 +42,4 @@ Problems solved:
 #1431 [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)<br>
 #2824 [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)<br>
 #1476 [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
+#2433 [Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
