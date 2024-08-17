@@ -43,3 +43,4 @@ Problems solved:
 #2824 [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)<br>
 #1476 [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
 #2433 [Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
+#2373 [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/)<br>
