@@ -45,3 +45,4 @@ Problems solved:
 #2114 [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)<br>
 #2574 [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/)<br>
 #1346 [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)<br>
+#1299 [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)<br>
