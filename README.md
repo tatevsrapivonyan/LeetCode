@@ -48,3 +48,4 @@ Problems solved:
 #1299 [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)<br>
 #1603 [Design Parking System](https://leetcode.com/problems/design-parking-system/description/)<br>
 #1720 [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)<br>
+#485 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)<br>
