@@ -49,3 +49,4 @@ Problems solved:
 #1603 [Design Parking System](https://leetcode.com/problems/design-parking-system/description/)<br>
 #1720 [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/)<br>
 #485 [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)<br>
+#1295 [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)<br>
