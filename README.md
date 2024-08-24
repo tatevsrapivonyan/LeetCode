@@ -52,3 +52,5 @@ Problems solved:
 #1295 [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)<br>
 #977 [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)<br>
 #1089 [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)<br>
+#905 [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)<br>
+#283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)<br>
