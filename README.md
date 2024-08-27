@@ -56,4 +56,5 @@ Problems solved:
 #283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)<br>
 #258 [Add Digits](https://leetcode.com/problems/add-digits/description/)<br>
 #260 [Single Number III](https://leetcode.com/problems/single-number-iii/description/)<br>
-#1486 [XOR Operation in an Array]()<br>
+#1486 [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/)<br>
+#2652 [Sum Multiples](https://leetcode.com/problems/sum-multiples/description/)<br>
