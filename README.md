@@ -59,3 +59,4 @@ Problems solved:
 #1486 [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/)<br>
 #2652 [Sum Multiples](https://leetcode.com/problems/sum-multiples/description/)<br>
 #1365 [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)<br>
+#3162 [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/description/)<br>
