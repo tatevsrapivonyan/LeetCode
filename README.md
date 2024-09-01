@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to my repository of LeetCode solutions. Here, you will find my solutions to various coding problems from LeetCode, organized by difficulty and topic.
+Welcome to my repository of LeetCode solutions. Here, you will find my solutions to various coding problems from LeetCode, organized by difficulty.
 
 ## Repository Structure
 
