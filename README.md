@@ -62,3 +62,4 @@ Problems solved:
 #3162 [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/description/)<br>
 #1688 [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/)<br>
 #2956 [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)<br>
+#709 [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)<br>
