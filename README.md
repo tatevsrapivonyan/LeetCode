@@ -64,3 +64,4 @@ Problems solved:
 #2956 [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)<br>
 #709 [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)<br>
 #1684 [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)<br>
+#2610 [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
