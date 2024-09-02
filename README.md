@@ -63,3 +63,4 @@ Problems solved:
 #1688 [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/)<br>
 #2956 [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)<br>
 #709 [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)<br>
+#1684 [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)<br>
