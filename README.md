@@ -65,3 +65,4 @@ Problems solved:
 #709 [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)<br>
 #1684 [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)<br>
 #2610 [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
+#1678 [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)<br>
