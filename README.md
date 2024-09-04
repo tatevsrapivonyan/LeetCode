@@ -66,3 +66,4 @@ Problems solved:
 #1684 [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)<br>
 #2610 [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
 #1678 [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)<br>
+#1662 [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)<br>
