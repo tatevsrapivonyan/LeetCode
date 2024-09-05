@@ -67,3 +67,4 @@ Problems solved:
 #2610 [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
 #1678 [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)<br>
 #1662 [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)<br>
+#2520 [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)<br>
