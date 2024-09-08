@@ -71,3 +71,4 @@ Problems solved:
 #3099	[Harshad Number](https://leetcode.com/problems/harshad-number/description/)<br>
 #2119	[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)<br>
 #66		[Plus One](https://leetcode.com/problems/plus-one/description/)<br>
+#1551	[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
