@@ -72,3 +72,4 @@ Problems solved:
 #2119	[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)<br>
 #66		[Plus One](https://leetcode.com/problems/plus-one/description/)<br>
 #1551	[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
+#1822   [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)<br>
