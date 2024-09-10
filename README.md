@@ -74,3 +74,4 @@ Problems solved:
 #1551	[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
 #1822   [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)<br>
 #1502   [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/)<br>
+#1672   [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)<br>
