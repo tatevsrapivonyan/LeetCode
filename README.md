@@ -77,8 +77,8 @@ Problems solved:
 
 ## Medium level problems
 
-### [7		Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) <br>
-### [1476     Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
-### [1551     Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
-### [2433     Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
-- [#2610     Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
+- #7    [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) <br>
+- #1476 [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
+- #1551 [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
+- #2433 [Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
+- #2610 [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
