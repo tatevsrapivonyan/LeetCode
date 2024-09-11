@@ -12,8 +12,9 @@ The repository is organized into directories based on problem difficulty:
 
 Problems solved:
 
+## Easy level problems
+
 #1		[Two Sum](https://leetcode.com/problems/two-sum/description/) <br>
-#7		[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) <br>
 #9		[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) <br>
 #13		[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) <br>
 #27		[Remove Element](https://leetcode.com/problems/remove-element/description/) <br>
@@ -39,8 +40,6 @@ Problems solved:
 #2798	[Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)<br>
 #1431	[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)<br>
 #2824	[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)<br>
-#1476	[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
-#2433	[Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
 #2373	[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/)<br>
 #2114	[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)<br>
 #2574	[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/)<br>
@@ -64,16 +63,22 @@ Problems solved:
 #2956	[Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)<br>
 #709	[To Lower Case](https://leetcode.com/problems/to-lower-case/description/)<br>
 #1684	[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)<br>
-#2610	[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
 #1678	[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)<br>
 #1662	[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)<br>
 #2520	[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)<br>
 #3099	[Harshad Number](https://leetcode.com/problems/harshad-number/description/)<br>
 #2119	[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)<br>
 #66		[Plus One](https://leetcode.com/problems/plus-one/description/)<br>
-#1551	[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
 #1822   [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)<br>
 #1502   [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/)<br>
 #1672   [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)<br>
 #2535	[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)<br>
 #1768   [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)<br>
+
+## Medium level problems
+
+#7		[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) <br>
+#1476	[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
+#1551	[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
+#2433	[Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
+#2610	[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
