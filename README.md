@@ -10,7 +10,7 @@ The repository is organized into directories based on problem difficulty:
 - `medium/` - Solutions to medium problems.
 - `hard/` - Solutions to hard problems.
 
-Problems solved:
+## Problems solved:
 
 ## Easy level problems
 
