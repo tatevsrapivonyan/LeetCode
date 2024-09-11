@@ -68,17 +68,17 @@ Problems solved:
 #2520	[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)<br>
 #3099	[Harshad Number](https://leetcode.com/problems/harshad-number/description/)<br>
 #2119	[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/description/)<br>
-#66		[Plus One](https://leetcode.com/problems/plus-one/description/)<br>
-#1822   [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)<br>
-#1502   [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/)<br>
-#1672   [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)<br>
-#2535	[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)<br>
-#1768   [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)<br>
+# 66		[Plus One](https://leetcode.com/problems/plus-one/description/)<br>
+# 1822   [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)<br>
+# 1502   [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/)<br>
+# 1672   [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)<br>
+# 2535	[Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)<br>
+# 1768   [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)<br>
 
 ## Medium level problems
 
-#7		[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) <br>
-#1476	[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
-#1551	[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
-#2433	[Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
-#2610	[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
+# [7		Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) <br>
+# [1476     Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
+# [1551     Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/)<br>
+# [2433     Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
+# [2610     Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
