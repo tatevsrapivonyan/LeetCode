@@ -12,7 +12,7 @@ The repository is organized into directories based on problem difficulty:
 
 ## Problems solved:
 
-### Easy level problems
+#### Easy level problems
 
 - #1		[Two Sum](https://leetcode.com/problems/two-sum/description/) <br>
 - #9		[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) <br>
@@ -75,7 +75,7 @@ The repository is organized into directories based on problem difficulty:
 - #2535 [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)<br>
 - #1768 [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)<br>
 
-### Medium level problems
+#### Medium level problems
 
 - #7    [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) <br>
 - #1476 [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/)<br>
