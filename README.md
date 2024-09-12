@@ -14,13 +14,13 @@ The repository is organized into directories based on problem difficulty:
 
 #### Easy level problems
 
-- #1		[Two Sum](https://leetcode.com/problems/two-sum/description/) <br>
-- #9		[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) <br>
-- #13		[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) <br>
-- #27		[Remove Element](https://leetcode.com/problems/remove-element/description/) <br>
-- #28		[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) <br>
-- #35		[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) <br>
-- #26		[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) <br>
+- #1	[Two Sum](https://leetcode.com/problems/two-sum/description/) <br>
+- #9	[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) <br>
+- #13	[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) <br>
+- #27	[Remove Element](https://leetcode.com/problems/remove-element/description/) <br>
+- #28	[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) <br>
+- #35	[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) <br>
+- #26	[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) <br>
 - #3110	[Score of a String](https://leetcode.com/problems/score-of-a-string/description/) <br>
 - #2769	[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) <br>
 - #1929	[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) <br>
@@ -74,6 +74,7 @@ The repository is organized into directories based on problem difficulty:
 - #1672 [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)<br>
 - #2535 [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)<br>
 - #1768 [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)<br>
+- #242  [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)<br>
 
 #### Medium level problems
 
