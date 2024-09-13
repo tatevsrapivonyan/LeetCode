@@ -75,6 +75,7 @@ The repository is organized into directories based on problem difficulty:
 - #2535 [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)<br>
 - #1768 [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)<br>
 - #242  [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)<br>
+- #1523 [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)<br>
 
 #### Medium level problems
 
