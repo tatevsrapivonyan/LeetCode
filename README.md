@@ -76,6 +76,7 @@ The repository is organized into directories based on problem difficulty:
 - #1768 [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)<br>
 - #242  [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)<br>
 - #1523 [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)<br>
+- #88   [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)<br>
 
 #### Medium level problems
 
