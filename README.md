@@ -77,6 +77,7 @@ The repository is organized into directories based on problem difficulty:
 - #242  [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)<br>
 - #1523 [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)<br>
 - #88   [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)<br>
+- #941  [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)<br>
 
 #### Medium level problems
 
