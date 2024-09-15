@@ -23,7 +23,7 @@ public:
             --j;
         }
 
-        if (i != arr.size() && j != arr.size() && i != 0 && j != 0 && i - 1 == j)
+        if (i != arr.size() && j != 0 && i - 1 == j)
         {
             return true;
         }
