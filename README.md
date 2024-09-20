@@ -79,6 +79,8 @@ The repository is organized into directories based on problem difficulty:
 - #88   [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)<br>
 - #941  [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)<br>
 - #1051 [Height Checker](https://leetcode.com/problems/height-checker/description/)<br>
+- #3232 [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/description/)<br>
+
 
 #### Medium level problems
 
