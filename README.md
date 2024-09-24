@@ -83,6 +83,7 @@ The repository is organized into directories based on problem difficulty:
 - #3289 [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)<br>
 - #3065 [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/)<br>
 - #728  [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)<br>
+- #326  [Power of Three](https://leetcode.com/problems/power-of-three/description/)<br>
 
 
 #### Medium level problems
