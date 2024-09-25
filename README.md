@@ -84,6 +84,7 @@ The repository is organized into directories based on problem difficulty:
 - #3065 [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/)<br>
 - #728  [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)<br>
 - #326  [Power of Three](https://leetcode.com/problems/power-of-three/description/)<br>
+- #507  [Perfect Number](https://leetcode.com/problems/perfect-number/description/)<br>
 
 
 #### Medium level problems
