@@ -86,7 +86,7 @@ The repository is organized into directories based on problem difficulty:
 - #326  [Power of Three](https://leetcode.com/problems/power-of-three/description/)<br>
 - #507  [Perfect Number](https://leetcode.com/problems/perfect-number/description/)<br>
 - #231  [Power of Two](https://leetcode.com/problems/power-of-two/description/)<br>
-- 
+- #342  [Power of Four](https://leetcode.com/problems/power-of-four/description/)<br>
 
 
 #### Medium level problems
