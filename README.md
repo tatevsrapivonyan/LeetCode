@@ -85,6 +85,8 @@ The repository is organized into directories based on problem difficulty:
 - #728  [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)<br>
 - #326  [Power of Three](https://leetcode.com/problems/power-of-three/description/)<br>
 - #507  [Perfect Number](https://leetcode.com/problems/perfect-number/description/)<br>
+- #231  [Power of Two](https://leetcode.com/problems/power-of-two/description/)<br>
+- 
 
 
 #### Medium level problems
