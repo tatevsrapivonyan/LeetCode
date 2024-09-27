@@ -87,7 +87,7 @@ The repository is organized into directories based on problem difficulty:
 - #507  [Perfect Number](https://leetcode.com/problems/perfect-number/description/)<br>
 - #231  [Power of Two](https://leetcode.com/problems/power-of-two/description/)<br>
 - #342  [Power of Four](https://leetcode.com/problems/power-of-four/description/)<br>
-
+- #1137 [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)<br>
 
 #### Medium level problems
 
