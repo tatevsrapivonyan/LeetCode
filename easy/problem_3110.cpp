@@ -1,7 +1,3 @@
-#include <string>
-
-using namespace std;
-
 class Solution {
 public:
     int scoreOfString(string s) {
