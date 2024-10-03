@@ -1,8 +1,3 @@
-#include <vector>
-#include <algorithm>
-
-uisng namespace std;
-
 class Solution {
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {

@@ -1,9 +1,3 @@
-#include <vector>
-#include <unordered_map>
-
-using namespace std;
-
-// Version 1
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

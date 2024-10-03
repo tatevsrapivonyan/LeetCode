@@ -1,8 +1,3 @@
-#include <cmath>
-#include <string>
-
-using namespace std;
-
 class Solution {
 public:
     int findPermutationDifference(string s, string t) {

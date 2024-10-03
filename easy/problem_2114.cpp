@@ -1,8 +1,3 @@
-#include <string>
-#include <vector>
-
-using namepsace std;
-
 class Solution {
 public:
     int mostWordsFound(vector<string>& sentences) {

@@ -1,7 +1,3 @@
-#include <vector>
-
-using namespace std;
-
 class SubrectangleQueries {
     vector<vector<int>> rectangle;
 public:
