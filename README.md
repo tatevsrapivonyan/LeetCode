@@ -104,3 +104,6 @@ The repository is organized into directories based on problem difficulty:
 - #2433 [Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
 - #2610 [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
 - #50   [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)<br>
+
+### Hard level problems
+- #4    [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
