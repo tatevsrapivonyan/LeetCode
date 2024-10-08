@@ -93,8 +93,6 @@ The repository is organized into directories based on problem difficulty:
 - #58   [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)<br>
 - #1572 [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)<br>
 - #1491 [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)<br>
-- #2485 [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/)<br>
-
 
 #### Medium level problems
 
