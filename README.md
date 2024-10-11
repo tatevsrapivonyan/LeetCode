@@ -95,6 +95,7 @@ The repository is organized into directories based on problem difficulty:
 - #1491 [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)<br>
 - #3194 [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/)<br>
 - #3285 [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/description/)<br>
+- #1313 [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/)<br>
 
 #### Medium level problems
 
