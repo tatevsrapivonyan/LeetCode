@@ -96,6 +96,7 @@ The repository is organized into directories based on problem difficulty:
 - #3194 [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/)<br>
 - #3285 [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/description/)<br>
 - #1313 [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/)<br>
+- #3300 [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/)<br>
 
 #### Medium level problems
 
