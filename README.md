@@ -97,6 +97,7 @@ The repository is organized into directories based on problem difficulty:
 - #3285 [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/description/)<br>
 - #1313 [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/)<br>
 - #3300 [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/)<br>
+- #1304 [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)<br>
 
 #### Medium level problems
 
