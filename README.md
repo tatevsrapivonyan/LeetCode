@@ -98,6 +98,7 @@ The repository is organized into directories based on problem difficulty:
 - #1313 [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/)<br>
 - #3300 [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/)<br>
 - #1304 [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)<br>
+- #3079 [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/description/)<br>
 
 #### Medium level problems
 
