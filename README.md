@@ -100,6 +100,7 @@ The repository is organized into directories based on problem difficulty:
 - #1304 [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)<br>
 - #3079 [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/description/)<br>
 - #1816 [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/)<br>
+- #414  [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)<br>
 
 #### Medium level problems
 
