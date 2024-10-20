@@ -104,7 +104,6 @@ The repository is organized into directories based on problem difficulty:
 - #448  [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)<br>
 - #747  [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)<br>
 - #557  [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)<br>
-- #2181 
 
 #### Medium level problems
 
@@ -114,6 +113,7 @@ The repository is organized into directories based on problem difficulty:
 - #2433 [Find the Original Array of Prefix XOR](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)<br>
 - #2610 [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
 - #50   [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)<br>
+- #2181 [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)<br>
 
 ### Hard level problems
 - #4    [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
