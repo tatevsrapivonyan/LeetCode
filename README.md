@@ -107,7 +107,7 @@ The repository is organized into directories based on problem difficulty:
 - #724  [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)<br>
 - #3280 [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/)<br>
 - #1389 [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)<br>
-- 
+- #1773 [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)<br>
 
 #### Medium level problems
 
