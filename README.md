@@ -109,6 +109,7 @@ The repository is organized into directories based on problem difficulty:
 - #1389 [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)<br>
 - #1773 [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)<br>
 - #1528 [Shuffle String](https://leetcode.com/problems/shuffle-string/description/)<br>
+- #2315 [Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)<br>
 
 #### Medium level problems
 
