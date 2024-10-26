@@ -110,6 +110,7 @@ The repository is organized into directories based on problem difficulty:
 - #1773 [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)<br>
 - #1528 [Shuffle String](https://leetcode.com/problems/shuffle-string/description/)<br>
 - #2315 [Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)<br>
+- #896  [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)<br>
 
 #### Medium level problems
 
