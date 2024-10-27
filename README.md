@@ -111,6 +111,7 @@ The repository is organized into directories based on problem difficulty:
 - #1528 [Shuffle String](https://leetcode.com/problems/shuffle-string/description/)<br>
 - #2315 [Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)<br>
 - #896  [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)<br>
+- #3330 [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)<br>
 
 #### Medium level problems
 
