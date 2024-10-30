@@ -114,6 +114,7 @@ The repository is organized into directories based on problem difficulty:
 - #3330 [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/)<br>
 - #3304 [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/)<br>
 - #3314 [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/)<br>
+- #169  [Majority Element](https://leetcode.com/problems/majority-element/description/)<br>
 
 #### Medium level problems
 
