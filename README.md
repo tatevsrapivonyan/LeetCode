@@ -117,6 +117,7 @@ The repository is organized into directories based on problem difficulty:
 - #169  [Majority Element](https://leetcode.com/problems/majority-element/description/)<br>
 - #2006 [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description/)<br>
 - #1957 [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description)<br>
+- #69   [Sqrt(x)](https://leetcode.com/problems/sqrtx/description)<br>
 
 #### Medium level problems
 
