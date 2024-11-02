@@ -118,6 +118,7 @@ The repository is organized into directories based on problem difficulty:
 - #2006 [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description/)<br>
 - #1957 [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description)<br>
 - #69   [Sqrt(x)](https://leetcode.com/problems/sqrtx/description)<br>
+- #2490 [Circular Sentence](https://leetcode.com/problems/circular-sentence/description)<br>
 
 #### Medium level problems
 
