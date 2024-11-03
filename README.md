@@ -119,6 +119,7 @@ The repository is organized into directories based on problem difficulty:
 - #1957 [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description)<br>
 - #69   [Sqrt(x)](https://leetcode.com/problems/sqrtx/description)<br>
 - #2490 [Circular Sentence](https://leetcode.com/problems/circular-sentence/description)<br>
+- #796  [Rotate String](https://leetcode.com/problems/rotate-string/description)<br>
 
 #### Medium level problems
 
