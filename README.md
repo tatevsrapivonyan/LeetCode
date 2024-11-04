@@ -130,6 +130,7 @@ The repository is organized into directories based on problem difficulty:
 - #2610 [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)<br>
 - #50   [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)<br>
 - #2181 [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)<br>
+- #3163 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)<br>
 
 ### Hard level problems
 - #4    [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
