@@ -131,7 +131,7 @@ The repository is organized into directories based on problem difficulty:
 - #50   [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)<br>
 - #2181 [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)<br>
 - #3163 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)<br>
-- #3011 [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description)<br>
+- #2914 [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description)<br>
 
 ### Hard level problems
 - #4    [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)<br>
